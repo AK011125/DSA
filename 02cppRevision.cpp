@@ -7,7 +7,7 @@ int main(){
     cin>>x;
     cout<<"x is : "<<x<<endl;
 
-    for(int i =0; i<=x; i++){
+    for(int i =0; i<=x; i++){      //pyramid code
         for(int j =0; j<=(x-i); j++){
             cout<<" ";
         }
