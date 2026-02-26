@@ -6,6 +6,6 @@ int main(){
     cout<<endl;
     cout<<"Hello World";
     cout<<endl;
-    cout<<"OGGY & NISHI";
+    cout<<"DSA From Striver";
     return 0;
 }
