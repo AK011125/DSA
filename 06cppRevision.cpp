@@ -1,11 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a;
-    cout<<"Enter a no : ";
-    cin>>a;
-
-    cout<<endl;
-    cout<<"Your no is : "<<a<<endl;
+    string str;
+    getline(cin, str); //getline is use to store all input in a single string
+    cout<<str;
     return 0;
 }
